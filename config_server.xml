@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+	<station>
+		<url>http://220.227.116.204:8000/punjabi.mp3</url>
+		<folderpath>/home/gazab/transcode/Punjabi</folderpath>
+	</station>
+	<station>
+		<url>http://220.227.116.204:8000/tamil.mp3</url>
+		<folderpath>/home/gazab/transcode/Tamil</folderpath>
+	</station>	
+</config>
